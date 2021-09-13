@@ -15,7 +15,7 @@
 </script>
 
 <script>
-	// https://codepen.io/akx/pen/QowEQq
+	// https://codepen.io/akx/pen/QowEQqgit in
 	function detectPeaks(data, windowWidth, threshold) {
 		const peaks = [];
 		for (let i = 0; i < data.length; i++) {
